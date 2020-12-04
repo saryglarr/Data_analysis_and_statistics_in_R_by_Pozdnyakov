@@ -1,0 +1,29 @@
+---
+title: "Data_analysis_and_statistics_in_R_by_Pozdniakov"
+author: "saryglarr"
+date: "30 11 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+#1. Начало работы в R
+```{r}
+9801/9
+log(2176782336, 6)
+log(10)*5
+sin(pi)
+sin(pi/2)
+sin(pi/6)
+```
+#2 Создание векторов
+```{r}
+c(2,30,4000)
+
+
+
+
+```
